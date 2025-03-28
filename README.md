@@ -1,4 +1,4 @@
-# Project Overviewn
+# Project Overview:
 ## Objective
 The goal of this project is to develop an accurate linear regression model to predict sales based on advertising budgets across three media channels: TV, Radio, and Newspaper. By analyzing the relationship between ad spend and revenue, we aim to identify which medium contributes the most to sales growth, allowing businesses to make data-driven marketing decisions.
 
