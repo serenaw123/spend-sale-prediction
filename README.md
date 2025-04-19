@@ -27,7 +27,7 @@ Confidence Intervals: Helped filter irrelevant variations, highlighting the true
 We implemented a linear regression model to quantify the impact of TV, Radio, and Newspaper spending on sales. This method was chosen due to its ability to model linear relationships between independent variables (advertising budgets) and the dependent variable (sales).
 
 ## Model Evaluation
-To assess model performance, we used:
+To assess model performance, we used performance metrics such as:
 
 Mean Squared Error (MSE): Measures the average squared differences between actual and predicted sales values.
 
